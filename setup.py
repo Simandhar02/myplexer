@@ -11,7 +11,7 @@ setup(
     description='MyPlexer Library for assignment',
     author='Simandhar Sahuji',
     author_email='simandar.sahuji@gmail.com',
-    url='https://git.txtbox.in:8080/smcore/sm_utils',
+    url='https://github.com/Simandhar02/myplexer',
     packages=['myplexer'],
     install_requires=[
         'Flask==1.0.2'
